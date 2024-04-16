@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8f3902d.css",
+    "main.js": "/static/js/main.e408d51a.js",
+    "static/media/Ticketbooker.png": "/static/media/Ticketbooker.f03b6407621c5f5308a1.png",
+    "static/media/yearkad.png": "/static/media/yearkad.abbcaafda63560d0daf4.png",
+    "static/media/twitter_clone.png": "/static/media/twitter_clone.b5c1e2c889d4d9920bbc.png",
+    "static/media/left.png": "/static/media/left.4214dc06843036ea4476.png",
+    "static/media/Resume.pdf": "/static/media/Resume.64895a73b8dd906bdb29.pdf",
+    "static/media/Ecommerce.png": "/static/media/Ecommerce.c272cd8170aaee4cf746.png",
+    "static/media/tindog.png": "/static/media/tindog.f676eb2baa30dd6418a9.png",
+    "static/media/lite.png": "/static/media/lite.e9fe175b5b62193205a4.png",
+    "static/media/normal.jpg": "/static/media/normal.ef4ecbc9c5fa8a318e1d.jpg",
+    "static/media/Drum.png": "/static/media/Drum.fd184f308235b4e343e9.png",
+    "static/media/royal_opticals.png": "/static/media/royal_opticals.48a23b1310e5a43d2f6b.png",
+    "static/media/Calc.png": "/static/media/Calc.cc4f4022ea4af107d021.png",
+    "index.html": "/index.html",
+    "main.f8f3902d.css.map": "/static/css/main.f8f3902d.css.map",
+    "main.e408d51a.js.map": "/static/js/main.e408d51a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8f3902d.css",
+    "static/js/main.e408d51a.js"
+  ]
+}
